@@ -1,0 +1,10 @@
+.TextInput {
+    min-width: 50;
+}
+
+table {
+    width:  700px;
+    height: 50px;
+    overflow-y: scroll;
+    justify-content: space-evenly;
+  }
